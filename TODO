@@ -1,0 +1,3 @@
+cambiar frm["xxx"] y frm.getvalue("xxx") por frm.getfirst("xxx")
+hacer que cada transaccion actualice el consolidado para no tener que recalcular
+

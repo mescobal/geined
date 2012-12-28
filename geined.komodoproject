@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="7f0d765d-f359-4dc3-a9e7-df7e4e06d2f1" kpf_version="5" name="geined.komodoproject">
+<preference-set idref="7f0d765d-f359-4dc3-a9e7-df7e4e06d2f1">
+  <string relative="path" id="import_dirname"></string>
+  <string id="import_exclude_matches">*.*~;*.bak;*.tmp;CVS;.#*;*.pyo;*.pyc;.svn;.git;.hg;.bzr;*%*;tmp*.html;.DS_Store;*.swp;*.kpf;*.komodoproject;*.komodotools</string>
+  <string id="import_include_matches"></string>
+  <boolean id="import_live">1</boolean>
+  <string id="pythonExtraPaths"></string>
+</preference-set>
+</project>

@@ -1,0 +1,11 @@
+#!/bin/sh
+
+if `diff ./$1 ../Alianza/$1 >/dev/null` ; then
+  echo Igual
+  # rm ../Alianza/$1
+else
+  echo Diferente
+  colordiff ./$1 ../Alianza/$1
+fi
+
+

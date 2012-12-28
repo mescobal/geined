@@ -1,0 +1,23 @@
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+indent_mode=2
+
+[project]
+name=Geined
+base_path=/home/mescobal/Desarrollo/geined
+description=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=3
+FILE_NAME_0=8780;Python;0;16;1;1;1;/home/mescobal/Desarrollo/geined/htm.py;0
+FILE_NAME_1=1304;Python;0;16;1;1;1;/home/mescobal/Desarrollo/geined/pagina.py;0
+FILE_NAME_2=930;Python;0;16;1;1;1;/home/mescobal/Desarrollo/geined/funciones.py;0
+FILE_NAME_3=4928;Python;0;16;1;1;1;/home/mescobal/Desarrollo/geined/datos.py;0
